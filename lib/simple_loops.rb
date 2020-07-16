@@ -34,6 +34,6 @@ def return_string_array(array)
   new_array = []
   
   while counter < array.length do
-    
+    array[counter]
   
   while 
